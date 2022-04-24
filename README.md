@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/wjhoward/">
+  <img src="https://github-readme-stats.vercel.app/api?username=wjhoward&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center">
+</a>
+<a href="https://github.com/wjhoward/">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wjhoward&theme=tokyonight&hide_border=true" align="center">
+</a>
+
 <!--
 **wjhoward/wjhoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
