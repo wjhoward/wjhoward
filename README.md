@@ -12,9 +12,13 @@
  
  
  ## Stats
- <br/>
+<br/>
 <a href="https://github.com/wjhoward/">
   <img src="https://github-readme-stats.vercel.app/api?username=wjhoward&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center">
+</a>
+
+<a href="https://github.com/wjhoward/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjhoward&theme=tokyonight&hide_border=true&layout=compact" align="center">
 </a>
 
 <!-- <a href="https://github.com/wjhoward/">
